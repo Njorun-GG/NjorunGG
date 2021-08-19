@@ -1,6 +1,6 @@
 ## Njorun
 
-What do I do is make software.<br>
+What do I do is make software.
 <br>
 ### My everyday projects
 Pest Moderation - Discord Bot (https://njorun-gg.github.io/Pest-Moderation/) or (https://github.com/Njorun-GG/Pest-Moderation)<br>
