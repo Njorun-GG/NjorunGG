@@ -1,4 +1,4 @@
-## Njorun
+## About me (TL:DR Version)
 
 What I do is make software.
 <br>
