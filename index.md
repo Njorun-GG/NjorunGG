@@ -11,4 +11,4 @@ APILINKER - C# <br>
 BreakingTheExample - ASM<br>
 <br>
 I'm still learning how to program but I try my best to use what I learn.<br><br>
-💖🧡💛💚💙💜 to my boyfriend.<br>
+🧡💛💚💙💜 to my boyfriend.<br>
