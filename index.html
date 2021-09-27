@@ -1,11 +1,31 @@
-<style>
-  body{
-   background-color: #141414; 
-  }
-</style>
-
-<body>
-
+<html>
+<link rel="stylesheet" href="footer-fluid.css"/>
+<title>NjorunGG Site</title>
+<script
+  src="https://code.jquery.com/jquery-3.6.0.min.js"
+  integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+  crossorigin="anonymous"></script>
+  <script src="fluid-nav.js"></script>
+  <header class="cd-header">
+  		<div class="header-wrapper">
+  			<div class="logo-wrap">
+  				<a href="#" class="hover-target"><image width=64 height=64 src="logo.png"/></a>
+  			</div>
+  			<div class="nav-but-wrap">
+  				<div class="menu-icon hover-target">
+  					<span class="menu-icon__line menu-icon__line-left"></span>
+  					<span class="menu-icon__line"></span>
+  					<span class="menu-icon__line menu-icon__line-right"></span>
+  				</div>
+  			</div>
+  		</div>
+  	</header>
+  <div class='cursor' id="cursor"></div>
+  <div class='cursor2' id="cursor2"></div>
+  <div class='cursor3' id="cursor3"></div>
+<div class="header">
+<!--Content before waves-->
+<div class="inner-header flex">
 <h1>About me (TL:DR Version)</h1>
 
 <h3>What I do is make software.</h3>
@@ -26,4 +46,30 @@
 <iframe src="https://www.guilded.gg/canvas_index.html?route=%2Fcanvas%2Fembed%2Fteamcard%2FORL9ZxDl" width="268" height="380" frameborder="0" scrolling="no"></iframe>
 
 <iframe src="https://discord.com/widget?id=759963338180001792&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-</body>
+</div>
+
+<!--Waves Container-->
+<div>
+<svg class="waves" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+viewBox="0 24 150 28" preserveAspectRatio="none" shape-rendering="auto">
+<defs>
+<path id="gentle-wave" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v20h-352z" />
+</defs>
+<g class="parallax">
+<use xlink:href="#gentle-wave" x="48" y="0" fill="rgba(135, 76, 194,0.7)" />
+<use xlink:href="#gentle-wave" x="48" y="3" fill="rgba(111, 67, 156,0.5)" />
+<use xlink:href="#gentle-wave" x="48" y="5" fill="rgba(94, 59, 130,0.3)" />
+<use xlink:href="#gentle-wave" x="48" y="7" fill="#442c5e" />
+</g>
+</svg>
+</div>
+<!--Waves end-->
+
+</div>
+<!--Header ends-->
+
+<!--Content starts-->
+<div class="content flex">
+<p>NjorunGG 💜</p>
+</div>
+</html>
